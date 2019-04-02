@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GambitTest</string>
+    <string name="hash">#</string>
+    <string name="slash">/</string>
+    <string name="position">Position -</string>
+    <string name="response_failure">Server Busy!!</string>
+    <string name="heading">The NBA Scout</string>
+    <string name="vs">VS</string>
+    <string name="search">Search</string>
+    <string name="no_internet">No Internet. Showing local data!</string>
+    <string name="no_data">No more data!</string>
+</resources>

@@ -1,0 +1,7 @@
+
+–squid:S1319"uThe type of the "playerData" object should be an interface such as "List" rather than the implementation "ArrayList".(ç®’úÿÿÿÿ8åßşî-
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŞË¾úÿÿÿÿ8åßşî-
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ò‡ı·8åßşî-
+[squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8åßşî-
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯äƒŠÿÿÿÿÿ8åßşî-
+”squid:S1319"sThe type of the "gameData" object should be an interface such as "List" rather than the implementation "ArrayList".(Õ…“¿úÿÿÿÿ8åßşî-

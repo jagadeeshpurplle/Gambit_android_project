@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="profile_size">35dp</dimen>
+    <dimen name="ts_first_name">13sp</dimen>
+    <dimen name="ts_last_name">16sp</dimen>
+    <dimen name="ts_heading">18sp</dimen>
+    <dimen name="team_icon_size">26dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦›Í8ãİİí-
+asquid:UselessImportCheck"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8ãİİí-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì¼§™ÿÿÿÿÿ8ãİİí-
+usquid:UselessImportCheck"GRemove this unused import 'android.graphics.drawable.GradientDrawable'.(·¸óşÿÿÿÿ8ãİİí-

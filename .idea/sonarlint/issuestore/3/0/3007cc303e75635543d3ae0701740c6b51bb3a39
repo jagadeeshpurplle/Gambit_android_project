@@ -1,0 +1,4 @@
+
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùİÎııÿÿÿÿ8’´Õà-
+šsquid:S1319"yThe type of the "playerDataList" object should be an interface such as "List" rather than the implementation "ArrayList".(Ğ›Òüÿÿÿÿ8’´Õà-
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Ëüıÿÿÿÿ8’´Õà-

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4D55FF</color>
+    <color name="colorPrimaryDark">#2D319E</color>
+    <color name="colorAccent">#4D55FF</color>
+    <color name="pager_bg">#eeeeee</color>
+    <color name="first_name">#b7b7b7</color>
+    <color name="last_name">#666666</color>
+    <color name="light_blue">#f5f6ff</color>
+</resources>
